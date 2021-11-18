@@ -1,0 +1,3 @@
+Informatyka, I rok, Inzynieria systemow informatycznych
+Informatyka, I rok, Inzynieria systemow informatycznych
+[0, 1, 2, 3, 4]
